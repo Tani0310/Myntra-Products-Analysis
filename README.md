@@ -77,7 +77,7 @@ The Power BI dashboard includes the following sections:
 
 ## 📸 Dashboard Screenshot
 
-![Myntra Dashboard](dashboard.png.
+![Myntra Dashboard](dashboard.png)
 
 ---
 
